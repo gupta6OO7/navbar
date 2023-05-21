@@ -1,0 +1,43 @@
+body{
+  background-color: #181719;
+  padding: 30px;
+}
+
+button{
+  width: 132px;
+  height: 32px;
+  left: 77px;
+  top: 42px;
+
+  border: 1px solid #FFFFFF;
+
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 16px;
+
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+  background-color: #181719;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
